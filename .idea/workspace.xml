@@ -5,18 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e35d62cd-201a-45db-accd-4dcd525b385e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ASU.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/main/resources/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/resources/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/resources/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/Playable.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/resources/Playable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/main/resources/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASU/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASU/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASU/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASU/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASU/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ASU/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/Playable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +41,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2gH7FIuYF55n2uVpD6RjixGAEfT" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,11 +56,26 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ulapi/testGit/po2024"
+    "last_opened_file_path": "C:/Users/ulapi/Desktop/TCS/Semestr_2/Programowanie Obiektowe/Projekt/Repo/ASU"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="untitled" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
